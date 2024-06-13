@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vitrine com banco\\Vitrine Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A570E5D-0A2A-495B-8DF9-2BBD0B328C8E}|Vitrine\\Vitrine.csproj|d:\\vitrine com banco\\vitrine backend\\vitrine\\endpoints\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A570E5D-0A2A-495B-8DF9-2BBD0B328C8E}|Vitrine\\Vitrine.csproj|solutionrelative:vitrine\\endpoints\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A570E5D-0A2A-495B-8DF9-2BBD0B328C8E}|Vitrine\\Vitrine.csproj|D:\\vitrine com banco\\Vitrine Backend\\vitrine\\endpoints\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A570E5D-0A2A-495B-8DF9-2BBD0B328C8E}|Vitrine\\Vitrine.csproj|solutionrelative:vitrine\\endpoints\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A570E5D-0A2A-495B-8DF9-2BBD0B328C8E}|Vitrine\\Vitrine.csproj|D:\\vitrine com banco\\Vitrine Backend\\vitrine\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A570E5D-0A2A-495B-8DF9-2BBD0B328C8E}|Vitrine\\Vitrine.csproj|solutionrelative:vitrine\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A570E5D-0A2A-495B-8DF9-2BBD0B328C8E}|Vitrine\\Vitrine.csproj|D:\\vitrine com banco\\Vitrine Backend\\vitrine\\vitrinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A570E5D-0A2A-495B-8DF9-2BBD0B328C8E}|Vitrine\\Vitrine.csproj|solutionrelative:vitrine\\vitrinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produtos.cs",
+              "DocumentMoniker": "D:\\vitrine com banco\\Vitrine Backend\\Vitrine\\Endpoints\\Produtos.cs",
+              "RelativeDocumentMoniker": "Vitrine\\Endpoints\\Produtos.cs",
+              "ToolTip": "D:\\vitrine com banco\\Vitrine Backend\\Vitrine\\Endpoints\\Produtos.cs",
+              "RelativeToolTip": "Vitrine\\Endpoints\\Produtos.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:27:27.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categorias.cs",
+              "DocumentMoniker": "D:\\vitrine com banco\\Vitrine Backend\\Vitrine\\Endpoints\\Categorias.cs",
+              "RelativeDocumentMoniker": "Vitrine\\Endpoints\\Categorias.cs",
+              "ToolTip": "D:\\vitrine com banco\\Vitrine Backend\\Vitrine\\Endpoints\\Categorias.cs",
+              "RelativeToolTip": "Vitrine\\Endpoints\\Categorias.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:26:13.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\vitrine com banco\\Vitrine Backend\\Vitrine\\Model\\Produto.cs",
+              "RelativeDocumentMoniker": "Vitrine\\Model\\Produto.cs",
+              "ToolTip": "D:\\vitrine com banco\\Vitrine Backend\\Vitrine\\Model\\Produto.cs",
+              "RelativeToolTip": "Vitrine\\Model\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T01:36:06.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VitrineDbContext.cs",
+              "DocumentMoniker": "D:\\vitrine com banco\\Vitrine Backend\\Vitrine\\VitrineDbContext.cs",
+              "RelativeDocumentMoniker": "Vitrine\\VitrineDbContext.cs",
+              "ToolTip": "D:\\vitrine com banco\\Vitrine Backend\\Vitrine\\VitrineDbContext.cs",
+              "RelativeToolTip": "Vitrine\\VitrineDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:18:22.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
